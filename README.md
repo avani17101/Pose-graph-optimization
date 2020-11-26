@@ -1,5 +1,5 @@
 # Pose Graph Optimization 
-
+Done as part of Mobile Robotics course project at IIIT Hyderabad, fall 2020.
 ## Introduction
 In a 2D world, a robot has 3 degrees of freedom, i.e. its pose in the world can be expressed by the state vector
 . For the scope of this project, we are interested only in the robot's trajectory through the
