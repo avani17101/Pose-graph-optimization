@@ -1,7 +1,7 @@
 # Pose Graph Optimization 
 
 ## Introduction
-n a 2D world, a robot has 3 degrees of freedom, i.e. its pose in the world can be expressed by the state vector
+In a 2D world, a robot has 3 degrees of freedom, i.e. its pose in the world can be expressed by the state vector
 . For the scope of this project, we are interested only in the robot's trajectory through the
 world, and NOT in distinct landmarks or the surronding map of the environment, i.e. we are only interested in
 "L"ocalization part of SLAM.
